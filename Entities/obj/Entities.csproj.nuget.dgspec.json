@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Entities\\Entities.csproj": {}
+    "c:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Entities\\Entities.csproj": {
+    "c:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Entities\\Entities.csproj",
+        "projectUniqueName": "c:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Entities\\Entities.csproj",
+        "projectPath": "c:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\jortiz.MID_OCEAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Entities\\obj\\",
+        "outputPath": "c:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jortiz.MID_OCEAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
