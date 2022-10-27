@@ -56,3 +56,4 @@ C:\Users\jortiz.MID_OCEAN\Projects\DTNExam\LightningAlert\Web\obj\Debug\net6.0\r
 C:\Users\jortiz.MID_OCEAN\Projects\DTNExam\LightningAlert\Web\obj\Debug\net6.0\LightningAlert.pdb
 C:\Users\jortiz.MID_OCEAN\Projects\DTNExam\LightningAlert\Web\obj\Debug\net6.0\LightningAlert.genruntimeconfig.cache
 C:\Users\jortiz.MID_OCEAN\Projects\DTNExam\LightningAlert\Web\obj\Debug\net6.0\ref\LightningAlert.dll
+C:\Users\jortiz.MID_OCEAN\Projects\DTNExam\LightningAlert\Web\bin\Debug\net6.0\Service\assets.json

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\web\\LightningAlert.csproj": {}
+    "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Web\\LightningAlert.csproj": {}
   },
   "projects": {
     "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Entities\\Entities.csproj": {
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\web\\LightningAlert.csproj": {
+    "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Web\\LightningAlert.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\web\\LightningAlert.csproj",
+        "projectUniqueName": "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Web\\LightningAlert.csproj",
         "projectName": "LightningAlert",
-        "projectPath": "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\web\\LightningAlert.csproj",
+        "projectPath": "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Web\\LightningAlert.csproj",
         "packagesPath": "C:\\Users\\jortiz.MID_OCEAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\web\\obj\\",
+        "outputPath": "C:\\Users\\jortiz.MID_OCEAN\\Projects\\DTNExam\\LightningAlert\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jortiz.MID_OCEAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
