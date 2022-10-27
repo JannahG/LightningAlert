@@ -57,6 +57,10 @@ namespace Web.Service
                             AssetOwner = matchedAsset.AssetOwner
                         });
                     }
+                    else
+                    {
+                        throw new Exception("Matched Asset not found!");
+                    }
                 }
             }
 
@@ -69,7 +73,7 @@ namespace Web.Service
         {
             string fileName = Path.Combine(
                 AppContext.BaseDirectory,
-                @"assets.json");
+                @"Service\assets.json");
 
             var result = new List<Asset>();
             string json = File.ReadAllText(fileName);
